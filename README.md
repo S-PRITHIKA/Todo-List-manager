@@ -1,4 +1,4 @@
-🐻 Cute To-Do List ✨
+🐻 Cute To-Do List 
 
 A simple and adorable to-do list web app built with HTML, CSS, and JavaScript.
 This project lets you add, complete, and delete tasks with a fun and motivating interface! 
@@ -37,4 +37,4 @@ Vanilla JavaScript – Adding, completing, and deleting tasks dynamically.
 4)Add cute animations when tasks are completed.
 
 
-This project was made for fun and to practice JavaScript DOM manipulation while keeping things cute and motivating. 🧡
+This project was made for fun and to practice JavaScript DOM manipulation while keeping things cute and motivating. 
